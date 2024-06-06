@@ -7,15 +7,16 @@ public:
         map<int,int> mpp;
         for(auto ch: nums) mpp[ch]++;
 
-        for(auto it: mpp){
-            auto st = it.first;
-            auto f = it.second;
-
-            if(f>0){
-                for(int i=0;i<k;i++){
-                    if(mpp[st+i] < f) return false;
-                    mpp[st+i]-=f;
-                }
+        while(mpp.size() > 0){
+            auto it = mpp.begin();
+            auto st = it->first;
+            if (mpp[st] == 0) continue;
+            for(int i=0;i<k;i++){
+                if(mpp[st+i]>0){ 
+                    mpp[st+i]--;
+                    if(mpp[st+i]==0) 
+                        mpp.erase(st+i);
+                }else return false;
             }
         }
         return true;
