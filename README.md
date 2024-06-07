@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 # Greedy
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
+| [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -51,3 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
