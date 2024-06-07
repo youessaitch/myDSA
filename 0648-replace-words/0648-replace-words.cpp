@@ -2,34 +2,23 @@ struct Node {
     Node* links[26];
     bool flag = false;
 
-    bool containsKey(char ch) {
-        return (links[ch - 'a'] != NULL);
-    }
+    bool containsKey(char ch) { return (links[ch - 'a'] != NULL); }
 
-    void put(char ch, Node* node) {
-        links[ch - 'a'] = node;
-    }
+    void put(char ch, Node* node) { links[ch - 'a'] = node; }
 
-    Node* get(char ch) {
-        return links[ch - 'a'];
-    }
+    Node* get(char ch) { return links[ch - 'a']; }
 
-    void setEnd() {
-        flag = true;
-    }
+    void setEnd() { flag = true; }
 
-    bool isEnd() {
-        return flag;
-    }
+    bool isEnd() { return flag; }
 };
 
 class Trie {
 private:
     Node* root;
+
 public:
-    Trie() {
-        root = new Node();
-    }
+    Trie() { root = new Node(); }
 
     void insert(string word) {
         Node* node = root;
@@ -62,27 +51,20 @@ public:
 class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
-        Trie trie;
+        Trie trie; // object
         for (string word : dictionary) {
             trie.insert(word);
         }
 
-        stringstream ss(sentence);
+        stringstream ss(sentence); // string split -> sentence to words
         string word, result;
         while (ss >> word) {
             if (!result.empty()) {
-                result += " ";
+                result += " "; // add space
             }
-            result += trie.search(word);
+            result += trie.search(
+                word); // add shortest string that can be found in the trie
         }
         return result;
     }
 };
-
-// int main() {
-//     Solution sol;
-//     vector<string> dictionary = {"cat", "bat", "rat"};
-//     string sentence = "the cattle was rattled by the battery";
-//     cout << sol.replaceWords(dictionary, sentence) << endl; // "the cat was rat by the bat"
-//     return 0;
-// }
