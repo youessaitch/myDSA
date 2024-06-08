@@ -9,8 +9,8 @@ public:
         //k=6
         //5 1 5 5 0
         int n = nums.size();
-        vector<int> pref(n,0);
-        vector<int> prefmod(n,0);
+        vector<int> pref(n,0); 
+        vector<int> prefmod(n,0); 
         pref[0] = nums[0];
         prefmod[0] = pref[0]%k;
         for(int i=1;i<n;i++){
