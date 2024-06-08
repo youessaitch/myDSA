@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
@@ -82,3 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
+# Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
