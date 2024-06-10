@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/youessaitch/myDSA/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 # Prefix Sum
 |  |
