@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
@@ -112,3 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
