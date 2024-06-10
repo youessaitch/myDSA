@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/youessaitch/myDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/youessaitch/myDSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Sorting
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/youessaitch/myDSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/youessaitch/myDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -123,3 +125,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/youessaitch/myDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
