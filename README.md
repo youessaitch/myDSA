@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/youessaitch/myDSA/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 # Trie
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
@@ -147,8 +152,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 # Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
