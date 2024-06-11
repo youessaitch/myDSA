@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //tc = O(N + M)
+    //sc = O(N)
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
         map<int,int> mpp;
         for(auto it: arr1) mpp[it]++;
