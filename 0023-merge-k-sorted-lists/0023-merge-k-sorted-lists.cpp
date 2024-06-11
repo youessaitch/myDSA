@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
-        priority_queue<int,vector<int>,greater<int>> pq;
+        priority_queue<int,vector<int>,greater<int>> pq; //min heap(min element on top)
         for(int i=0;i<n;i++){
             auto j=lists[i];
             while(j!=NULL)
