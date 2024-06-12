@@ -9,27 +9,29 @@
  * };
  */
 class Solution {
-public:
+public: 
+    //TC = O(N)
+    //SC = O(N)
     ListNode* rotateRight(ListNode* head, int k) {
-        vector<int> v;
+        vector<int> v; //N
         ListNode* p1 = head;
-        while(p1!=NULL){
+        while(p1!=NULL){ 
             v.push_back(p1->val);
             p1 = p1->next;
         }
         int n = v.size();
         if(v.size()==0 || k==0) return head;
         int t = k%n;
-        queue<int> q;
-        for(int i=0;i<n-t;i++){
+        queue<int> q; //N
+        for(int i=0;i<n-t;i++){ 
             q.push(v[i]);
         }
         int j=0;
-        for(int i=n-t;i<n;i++){
+        for(int i=n-t;i<n;i++){ 
             v[j]=v[i];
             j++;
         }
-        while(!q.empty()){
+        while(!q.empty()){ 
             v[j] = q.front();
             q.pop();
             j++;
