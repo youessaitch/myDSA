@@ -196,3 +196,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/youessaitch/myDSA/tree/master/0204-count-primes) |
+# Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+# Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+# Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
