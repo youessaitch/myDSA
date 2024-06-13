@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/youessaitch/myDSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/youessaitch/myDSA/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 # Stack
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/youessaitch/myDSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/youessaitch/myDSA/tree/master/0050-powx-n) |
 # Enumeration
 |  |
 | ------- |
