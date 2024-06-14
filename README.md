@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/youessaitch/myDSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/youessaitch/myDSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
 # Sliding Window
