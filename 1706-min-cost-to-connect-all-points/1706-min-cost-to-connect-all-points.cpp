@@ -4,7 +4,7 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
         vector<vector<int>> adj[n];
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){ //O(n^2)
             for(int j=i+1;j<n;j++){
                 int wt = abs(points[i][0]-points[j][0]) + abs(points[i][1]-points[j][1]); 
                 adj[i].push_back({j,wt});
@@ -36,7 +36,8 @@ public:
                 if(vis[child]==0) pq.push({child_wt,child}); //O(logE)
             }
         }
-        //TC = O(ElogE)
+        //TC = O(n^2 * logn)
+        //SC = O(N)
         return sum;
     }
 };
