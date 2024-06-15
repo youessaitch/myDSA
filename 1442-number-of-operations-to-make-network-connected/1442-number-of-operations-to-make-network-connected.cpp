@@ -35,6 +35,7 @@ public:
 
 class Solution {
 public:
+//First we'll make Disjoint sets from connection then iterate through it and check, if parent[i]==i. That means we have those are not connected components
     int makeConnected(int n, vector<vector<int>>& connections) {
         int m = connections.size();
         if (m < n - 1) return -1;
@@ -54,7 +55,7 @@ public:
         for (int i = 0; i < n; i++) {
             if (ds.parent[i] == i) cntC++;
         }
-        int ans = cntC - 1;
+        int ans = cntC - 1; //one of them will be connected so cnt-1
         return ans;
         
     }
