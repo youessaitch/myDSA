@@ -46,7 +46,7 @@ public:
             int u = it[0];
             int v = it[1];
 
-            if(ds.find(u)==ds.find(v)) cntExtra++; //agr pehle se connected hai to cntExtra++
+            if(ds.find(u)==ds.find(v)) continue;
             else ds.unionByRank(u,v);
         }
 
