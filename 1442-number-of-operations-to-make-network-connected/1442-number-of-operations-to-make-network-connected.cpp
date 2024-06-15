@@ -1,32 +1,61 @@
-class Solution {
+class DisjointSet {
 public:
-    void dfs(int node, vector<int> &vis, vector<vector<int>>& adj){
-        vis[node]=1;
-        for(auto it: adj[node]){
-            if(!vis[it]) dfs(it,vis,adj); 
+    vector<int> rank, parent;
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
         }
     }
 
+    int find(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = find(parent[node]);
+    }
+
+    void unionByRank(int u, int v) {
+        int ulp_u = find(u);
+        int ulp_v = find(v);
+        if (ulp_u == ulp_v) return;
+        if (rank[ulp_u] < rank[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+        }
+        else if (rank[ulp_v] < rank[ulp_u]) {
+            parent[ulp_v] = ulp_u;
+        }
+        else {
+            parent[ulp_v] = ulp_u;
+            rank[ulp_u]++;
+        }
+    }
+};
+
+class Solution {
+public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         int m = connections.size();
         if (m < n - 1) return -1;
 
-        vector<vector<int>> adj(n);
+        DisjointSet ds(n); //object
+
+        int cntExtra = 0;
         for(auto it: connections){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+            int u = it[0];
+            int v = it[1];
+
+            if(ds.find(u)==ds.find(v)) cntExtra++; //agr pehle se connected hai to cntExtra++
+            else ds.unionByRank(u,v);
         }
 
-        vector<int> vis(n,0);
-
-        int cnt = 0;
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,vis,adj);
-                cnt++;
-            }
+        int cntC = 0;
+        for (int i = 0; i < n; i++) {
+            if (ds.parent[i] == i) cntC++;
         }
-
-        return cnt - 1;
+        int ans = cntC - 1;
+        return ans;
+        
     }
 };
