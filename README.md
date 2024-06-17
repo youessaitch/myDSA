@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/youessaitch/myDSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Breadth-First Search
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
 # Topological Sort
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
 # Minimum Spanning Tree
