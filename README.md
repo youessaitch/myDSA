@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
 # String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/youessaitch/myDSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/youessaitch/myDSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
 # Sorting
 |  |
 | ------- |
@@ -261,3 +263,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+# Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
+# Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
