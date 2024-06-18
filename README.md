@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/youessaitch/myDSA/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/youessaitch/myDSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/youessaitch/myDSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/youessaitch/myDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # Math
