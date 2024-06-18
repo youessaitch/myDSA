@@ -5,7 +5,7 @@ public:
         if(x==c) return 0;
         int ans = 0;
 
-        for(int i=0;i<32;i++){
+        for(int i=0;i<31;i++){
             bool p = a&(1<<i);
             bool q = b&(1<<i);
             if(c&(1<<i)){
