@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Prefix Sum
 |  |
 | ------- |
@@ -229,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Union Find
 |  |
 | ------- |
@@ -243,3 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
+# Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
