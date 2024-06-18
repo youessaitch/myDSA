@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/youessaitch/myDSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
+| [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/youessaitch/myDSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
+| [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/youessaitch/myDSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/youessaitch/myDSA/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 # Counting Sort
 |  |
 | ------- |
