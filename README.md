@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/youessaitch/myDSA/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 # Greedy
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/youessaitch/myDSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/youessaitch/myDSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/youessaitch/myDSA/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 # Counting Sort
