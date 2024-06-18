@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/youessaitch/myDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/youessaitch/myDSA/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/youessaitch/myDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/youessaitch/myDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/youessaitch/myDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Linked List
