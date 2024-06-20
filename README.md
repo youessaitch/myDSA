@@ -281,3 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/youessaitch/myDSA/tree/master/0216-combination-sum-iii) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/youessaitch/myDSA/tree/master/1908-recyclable-and-low-fat-products) |
