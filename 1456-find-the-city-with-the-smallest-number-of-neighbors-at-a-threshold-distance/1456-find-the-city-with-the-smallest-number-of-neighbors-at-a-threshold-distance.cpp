@@ -1,17 +1,16 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        // vector<int> city(n,0);
         vector<vector<int>> grid(n, vector<int>(n, 1e5));
         for(auto it: edges){
             int i = it[0];
             int j = it[1];
             int w = it[2];
-            grid[i][j]=w;
-            grid[j][i]=w;
+            grid[i][j]=w; //undirected
+            grid[j][i]=w; //undirected
         }
 
-        // for(int )
+        //floyd warshall
 
         for(int via=0;via<n;via++){ //main part
             for(int i=0;i<n;i++){
@@ -25,7 +24,7 @@ public:
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                grid[i][i]=0;
+                grid[i][i]=0; //diagonal values should be zero since 0->0 jane ka distance = 0, 1->1 also 0, etc
                 // cout<<grid[i][j]<<" ";
             }
             // cout<<endl;
