@@ -247,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Graph
@@ -304,3 +306,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/youessaitch/myDSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/youessaitch/myDSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/youessaitch/myDSA/tree/master/1908-recyclable-and-low-fat-products) |
+# Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
+# Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
