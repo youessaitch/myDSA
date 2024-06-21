@@ -10,19 +10,54 @@
  */
 class Solution {
 public:
+    // Function to reverse a linked list
+    // using the 3-pointer approach
+    ListNode* reverseLinkedList(ListNode *head)
+    {
+        ListNode* temp = head;  
+        ListNode* prev = NULL;  
+        while(temp != NULL){  
+            ListNode* front = temp->next;  
+            temp->next = prev;  
+            prev = temp;  
+            temp = front; 
+        }
+        return prev;  
+    }
+
     int pairSum(ListNode* head) {
-        vector<int> v;
+        if (head == nullptr || head->next == nullptr) {
+            return 0;
+        }
+
+        if(head->next->next==nullptr){
+            return head->val + head->next->val;
+        }
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=nullptr && fast->next!=nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // ListNode* f1 = slow->next;
+        // slow->next = nullptr;
+
+        ListNode* f2 = reverseLinkedList(slow);
+        // slow->next = f2;
+
+        int maxi = 0;
         ListNode* p1 = head;
-        while(p1!=nullptr){
-            v.push_back(p1->val);
+        ListNode* p2 = f2;
+        // slow=slow->next;
+        while(p2!=nullptr){
+            int sum = p2->val + p1->val;
+            maxi = max(maxi,sum);
             p1 = p1->next;
+            p2 = p2->next;
         }
-        int ans = 0;
-        int n = v.size();
-        for(int i=0;i<n/2;i++){
-            int sum = v[i] + v[n-1-i];
-            ans = max(ans,sum);
-        }
-        return ans;
+
+        return maxi;
     }
 };
