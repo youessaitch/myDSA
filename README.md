@@ -250,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Graph
 |  |
@@ -310,7 +312,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
