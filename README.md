@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/youessaitch/myDSA/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Counting Sort
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/youessaitch/myDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/youessaitch/myDSA/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Heap (Priority Queue)
 |  |
 | ------- |
