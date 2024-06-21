@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 # Counting Sort
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/youessaitch/myDSA/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 # Heap (Priority Queue)
 |  |
 | ------- |
