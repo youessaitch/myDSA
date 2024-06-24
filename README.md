@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/youessaitch/myDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/youessaitch/myDSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/youessaitch/myDSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/youessaitch/myDSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/youessaitch/myDSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/youessaitch/myDSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Breadth-First Search
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Graph
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Binary Tree
 |  |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/youessaitch/myDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Queue
 |  |
