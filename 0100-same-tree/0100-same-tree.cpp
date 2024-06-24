@@ -19,27 +19,30 @@ public:
 
     bool isSameTree(TreeNode* p, TreeNode* q) {
         if(!p && !q) return true;
-        if(!p || !p) return false;
+        if(!p || !q) return false;
+        if(p->val != q->val) return false;
 
-        queue<TreeNode*> qu;
-        qu.push(p);
-        qu.push(q);
+        return (isSameTree(p->left,q->left) && isSameTree(p->right,q->right));
 
-        while(!qu.empty()){
-            auto p1 = qu.front();
-            qu.pop();
-            auto q1 = qu.front();
-            qu.pop();
+        // queue<TreeNode*> qu;
+        // qu.push(p);
+        // qu.push(q);
 
-            if(!p1 && !q1)continue;
-            if(!p1 || !q1) return false;
-            if(p1->val != q1->val) return false;
+        // while(!qu.empty()){
+        //     auto p1 = qu.front();
+        //     qu.pop();
+        //     auto q1 = qu.front();
+        //     qu.pop();
 
-            qu.push(p1->left);
-            qu.push(q1->left);
-            qu.push(p1->right);
-            qu.push(q1->right);
-        }
-        return true;
+        //     if(!p1 && !q1)continue;
+        //     if(!p1 || !q1) return false;
+        //     if(p1->val != q1->val) return false;
+
+        //     qu.push(p1->left);
+        //     qu.push(q1->left);
+        //     qu.push(p1->right);
+        //     qu.push(q1->right);
+        // }
+        // return true;
     }
 };
