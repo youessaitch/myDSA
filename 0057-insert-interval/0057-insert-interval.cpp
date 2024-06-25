@@ -1,30 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& v, vector<int>& newInterval) {
-        v.push_back(newInterval);
-        int n = v.size();
-        sort(v.begin(),v.end());
-        vector<vector<int>> ans;
-        stack<pair<int,int>> st;
-        for(int i=0;i<n;i++){
-            if(!st.empty()){
-                auto t = st.top();
-                if((v[i][0] >= t.first) && (v[i][0] <= t.second)){
-                    st.pop();
-                    st.push({min(v[i][0],t.first),max(v[i][1],t.second)});
-                }else{
-                    st.push({v[i][0],v[i][1]});
-                }
-            }else{
-                st.push({v[i][0],v[i][1]});
-            }
-            
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        vector<vector<int>> merged;
+        int i = 0;
+
+        while (i < intervals.size() && intervals[i][1] < newInterval[0]) {
+            merged.push_back(intervals[i]);
+            i++;
         }
-        while(!st.empty()){
-            ans.push_back({st.top().first, st.top().second});
-            st.pop();
+
+        while (i < intervals.size() && intervals[i][0] <= newInterval[1]) {
+            newInterval = {min(newInterval[0], intervals[i][0]), max(newInterval[1], intervals[i][1])};
+            i++;
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        merged.push_back(newInterval);
+
+        while (i < intervals.size()) {
+            merged.push_back(intervals[i]);
+            i++;
+        }
+
+        return merged;
     }
 };
