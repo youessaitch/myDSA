@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/youessaitch/myDSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/youessaitch/myDSA/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/youessaitch/myDSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/youessaitch/myDSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/youessaitch/myDSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/youessaitch/myDSA/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/youessaitch/myDSA/tree/master/0523-continuous-subarray-sum) |
