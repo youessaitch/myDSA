@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/youessaitch/myDSA/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/youessaitch/myDSA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/youessaitch/myDSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/youessaitch/myDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/youessaitch/myDSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/youessaitch/myDSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/youessaitch/myDSA/tree/master/0502-ipo) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/youessaitch/myDSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/youessaitch/myDSA/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/youessaitch/myDSA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/youessaitch/myDSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/youessaitch/myDSA/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/youessaitch/myDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/youessaitch/myDSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/youessaitch/myDSA/tree/master/0435-non-overlapping-intervals) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/youessaitch/myDSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/youessaitch/myDSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/youessaitch/myDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
