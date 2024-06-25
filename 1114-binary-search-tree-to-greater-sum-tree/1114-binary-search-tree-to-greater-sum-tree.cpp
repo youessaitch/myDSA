@@ -12,37 +12,39 @@
 class Solution {
 public:
 
-    void inorder(TreeNode* root,vector<int> &v){
+    // void inorder(TreeNode* root,vector<int> &v){
+    //     if(!root) return;
+
+    //     if(root->left) inorder(root->left,v);
+    //     v.push_back(root->val);
+    //     if(root->right) inorder(root->right,v);
+    // }
+
+    // void reconstruct(TreeNode* root, vector<int>&v, int &idx){
+    //     if(!root) return;
+
+    //     if(root->left) reconstruct(root->left,v,idx);
+    //     root->val = v[idx];
+    //     idx++;
+    //     if(root->right) reconstruct(root->right,v,idx);
+    // }
+
+    //R->node->L
+    void dfs(TreeNode* root,int &sum){
         if(!root) return;
 
-        if(root->left) inorder(root->left,v);
-        v.push_back(root->val);
-        if(root->right) inorder(root->right,v);
-    }
+        dfs(root->right,sum); //all the way to the last node in right
+        sum+=root->val;
+        root->val = sum;
 
-    void reconstruct(TreeNode* root, vector<int>&v, int &idx){
-        if(!root) return;
+        dfs(root->left,sum);
 
-        if(root->left) reconstruct(root->left,v,idx);
-        root->val = v[idx];
-        idx++;
-        if(root->right) reconstruct(root->right,v,idx);
     }
 
     TreeNode* bstToGst(TreeNode* root) {
         if(!root) return nullptr;
-        vector<int> v;
-        inorder(root,v);
-        int prev = 0;
-        for(int i=v.size()-1;i>=0;i--){
-            prev+=v[i];
-            v[i] = prev;
-        }
-
-        //reconstruct
-        int idx = 0;
-        reconstruct(root,v,idx);
-
+        int sum = 0;
+        dfs(root,sum);
         return root;
     }
 };
