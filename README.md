@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/youessaitch/myDSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/youessaitch/myDSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/youessaitch/myDSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/youessaitch/myDSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/youessaitch/myDSA/tree/master/0057-insert-interval) |
@@ -336,10 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/youessaitch/myDSA/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/youessaitch/myDSA/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
 # Backtracking
 |  |
