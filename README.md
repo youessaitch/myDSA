@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 # Trie
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/youessaitch/myDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/youessaitch/myDSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/youessaitch/myDSA/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/youessaitch/myDSA/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/youessaitch/myDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/youessaitch/myDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/youessaitch/myDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/youessaitch/myDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/youessaitch/myDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/youessaitch/myDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/youessaitch/myDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -419,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/youessaitch/myDSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
