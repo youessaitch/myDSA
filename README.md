@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/youessaitch/myDSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/youessaitch/myDSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2428-equal-row-and-column-pairs](https://github.com/youessaitch/myDSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/youessaitch/myDSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Sorting
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/youessaitch/myDSA/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/youessaitch/myDSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/youessaitch/myDSA/tree/master/1585-the-kth-factor-of-n) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/youessaitch/myDSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Stack
 |  |
 | ------- |
