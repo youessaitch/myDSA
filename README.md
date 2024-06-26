@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/youessaitch/myDSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/youessaitch/myDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/youessaitch/myDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/youessaitch/myDSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/youessaitch/myDSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/youessaitch/myDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/youessaitch/myDSA/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 # Trie
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/youessaitch/myDSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 # Breadth-First Search
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/youessaitch/myDSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/youessaitch/myDSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
 # Queue
 |  |
 | ------- |
@@ -415,3 +420,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/youessaitch/myDSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/youessaitch/myDSA/tree/master/1285-balance-a-binary-search-tree) |
