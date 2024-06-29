@@ -8,7 +8,13 @@ public:
             adj[it[0]].push_back(it[1]);
             indegree[it[1]]++;
         }
-        vector<set<int>> ans(n);
+
+        for(int i=0;i<indegree.size();i++){
+            cout<<indegree[i]<<" ";
+        }
+
+        vector<set<int>> ans(n); //to avoid duplicate
+
         queue<int> q;
         for(int i=0;i<n;i++){
             if(indegree[i]==0) q.push(i);
@@ -21,7 +27,7 @@ public:
             for(auto v: adj[u]){
                 indegree[v]--;
                 ans[v].insert(u);
-                for(auto it: ans[u]){
+                for(auto it: ans[u]){ //include all the nodes from the parent too 
                     ans[v].insert(it);
                 }
                 if(indegree[v]==0) q.push(v);
