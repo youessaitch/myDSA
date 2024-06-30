@@ -533,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/youessaitch/myDSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/youessaitch/myDSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
