@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/youessaitch/myDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/youessaitch/myDSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/youessaitch/myDSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/youessaitch/myDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/youessaitch/myDSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/youessaitch/myDSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
