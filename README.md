@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/youessaitch/myDSA/tree/master/1293-three-consecutive-odds) |
 ## Divide and Conquer
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/youessaitch/myDSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/youessaitch/myDSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/youessaitch/myDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
