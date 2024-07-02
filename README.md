@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/youessaitch/myDSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/youessaitch/myDSA/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/youessaitch/myDSA/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
