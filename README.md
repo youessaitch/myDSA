@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/youessaitch/myDSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -660,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
