@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/youessaitch/myDSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
+| [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/youessaitch/myDSA/tree/master/1293-three-consecutive-odds) |
@@ -628,9 +629,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/youessaitch/myDSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
