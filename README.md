@@ -671,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/youessaitch/myDSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
