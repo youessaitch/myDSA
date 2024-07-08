@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/youessaitch/myDSA/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/youessaitch/myDSA/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 ## Bit Manipulation
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/youessaitch/myDSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+| [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
