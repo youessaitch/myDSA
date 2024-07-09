@@ -2,6 +2,7 @@ class Solution {
 public:
     int n;
     
+    //returning AND value of window
     int calc(vector<int>& bits, int w) {
         int ans = 0;
         for (int i = 0; i < 32; i++) {
@@ -15,7 +16,7 @@ public:
     long long atLeastK(vector<int>& nums, int k) {
         int l = 0, r = 0;
         long long ans = 0;
-        vector<int> bits(32, 0);
+        vector<int> bits(32, 0); 
         while (r < n) {
             for (int i = 0; i < 32; i++) {
                 if (nums[r] & (1 << i)) {
