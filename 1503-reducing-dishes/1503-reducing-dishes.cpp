@@ -3,18 +3,14 @@ public:
     int maxSatisfaction(vector<int>& satisfaction) {
         int n = satisfaction.size();
         sort(satisfaction.begin(),satisfaction.end());
-        int ans = -1e5;
-
-        for(int i=0;i<n;i++){
-            int temp = 0;
-            int t= 1;
-            for(int j=i;j<n;j++){
-                temp += satisfaction[j]*t;
-                t++;
+        int ans = 0, sum = 0;
+        for(int i=n-1;i>=0;i--){
+            sum += satisfaction[i];
+            if(sum<0) break;
+            else{
+                ans += sum;
             }
-            ans = max(ans,temp);
         }
-        if(ans < 0) return 0;
         return ans;
     }
 };
