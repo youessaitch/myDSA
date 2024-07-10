@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/youessaitch/myDSA/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
