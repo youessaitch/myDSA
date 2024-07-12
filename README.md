@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/youessaitch/myDSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/youessaitch/myDSA/tree/master/0222-count-complete-tree-nodes) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Array
 |  |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/youessaitch/myDSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
