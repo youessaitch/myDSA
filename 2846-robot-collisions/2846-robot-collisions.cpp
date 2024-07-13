@@ -9,7 +9,7 @@ public:
         }
         sort(v.begin(),v.end());
         // for(auto it: v){
-        //     cout<<it.first<<" "<<it.second.first<<" "<<it.second.second<<endl;
+        //     cout<<it[0]<<" "<<it[1]<<" "<<it[2]<<endl;
         // }
         stack<vector<int>> st; //{directions, health,i}
 
