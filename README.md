@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 | [1642-water-bottles](https://github.com/youessaitch/myDSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/youessaitch/myDSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
