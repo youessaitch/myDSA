@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Search
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/youessaitch/myDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/youessaitch/myDSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/youessaitch/myDSA/tree/master/2846-robot-collisions) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
+| [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/youessaitch/myDSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
