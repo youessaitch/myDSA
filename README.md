@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/youessaitch/myDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/youessaitch/myDSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Heap (Priority Queue)
 |  |
