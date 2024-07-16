@@ -1,49 +1,39 @@
 class Solution {
 public:
+    int n;
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_set<int> childrenSet;
-        unordered_map<int, pair<int, int>> childrenHashmap;
+        unordered_map<int,TreeNode*> mpp;
+        n = descriptions.size();
+        unordered_set<int> nonRoots;
 
-        for (auto& desc : descriptions) {
-            int parent = desc[0];
-            int child = desc[1];
-            bool isLeft = desc[2] == 1;
+        for(auto it: descriptions){
+            int baap = it[0];
+            int beta = it[1];
+            bool left = it[2];
+            nonRoots.insert(beta);
 
-            if (childrenHashmap.find(parent) == childrenHashmap.end()) {
-                childrenHashmap[parent] = { -1, -1 };
+            if(mpp.find(baap)==mpp.end()){
+                TreeNode* par = new TreeNode(baap);
+                mpp[baap] = par;
             }
 
-            childrenSet.insert(child);
-            if (isLeft) {
-                childrenHashmap[parent].first = child;
-            } else {
-                childrenHashmap[parent].second = child;
-            }
+            if(mpp.find(beta)==mpp.end()){
+                TreeNode* child = new TreeNode(beta);
+                mpp[beta] = child;
+            } 
+
+            if(left) mpp[baap]->left = mpp[beta];
+            else mpp[baap]->right = mpp[beta];
         }
 
-        int headNodeVal;
-        for (auto& [parent, children] : childrenHashmap) {
-            if (childrenSet.find(parent) == childrenSet.end()) {
-                headNodeVal = parent;
+        int sbkaBaap;
+        for(auto it: descriptions){
+            if(nonRoots.find(it[0])==nonRoots.end()){
+                sbkaBaap = it[0];
                 break;
             }
         }
 
-        return constructTree(headNodeVal, childrenHashmap);
-    }
-
-private:
-    TreeNode* constructTree(int curNodeVal, unordered_map<int, pair<int, int>>& childrenHashmap) {
-        TreeNode* newNode = new TreeNode(curNodeVal);
-        if (childrenHashmap.find(curNodeVal) != childrenHashmap.end()) {
-            auto& children = childrenHashmap[curNodeVal];
-            if (children.first != -1) {
-                newNode->left = constructTree(children.first, childrenHashmap);
-            }
-            if (children.second != -1) {
-                newNode->right = constructTree(children.second, childrenHashmap);
-            }
-        }
-        return newNode;
+        return mpp[sbkaBaap];
     }
 };
