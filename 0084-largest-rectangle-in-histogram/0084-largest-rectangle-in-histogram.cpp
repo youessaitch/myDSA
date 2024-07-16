@@ -2,6 +2,7 @@ class Solution {
 public:
     int n;
     int largestRectangleArea(vector<int>& heights) {
+        //see notes for explanation -> I solved this on my own 
         n = heights.size();
         vector<int> prev(n,-1); //next smallest 
         vector<int> next(n,n); //next smallest 
