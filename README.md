@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/youessaitch/myDSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/youessaitch/myDSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/youessaitch/myDSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/youessaitch/myDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/youessaitch/myDSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/youessaitch/myDSA/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
