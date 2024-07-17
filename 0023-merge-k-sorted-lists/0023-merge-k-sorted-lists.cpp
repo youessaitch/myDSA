@@ -9,27 +9,24 @@
  * };
  */
 class Solution {
-public: 
-    // TC = O(NlogN)
-    // SC = O(N)
+public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
-        priority_queue<int,vector<int>,greater<int>> pq; //min heap(min element on top)
-        for(int i=0;i<n;i++){ //O(N*log(N))
-            auto j=lists[i];  
-            while(j!=NULL) //O(1) accessing an element in linkedlist
-            {
-                pq.push(j->val);
-                j=j->next;
+        priority_queue<int,vector<int>,greater<int>> pq;
+        for(int i=0;i<n;i++){
+            ListNode* p1 = lists[i];
+            while(p1!=NULL){
+                pq.push(p1->val);
+                p1 = p1->next;
             }
         }
         ListNode* ans = new ListNode(-1);
         ListNode* p1 = ans;
-        while(!pq.empty()){ //O(N*M*log(N*M))
-            ListNode* temp = new ListNode(pq.top());
+        while(!pq.empty()){
+            ListNode* node = new ListNode(pq.top());
             pq.pop();
-            p1->next = temp;
-            p1=p1->next;
+            p1->next = node;
+            p1 = p1->next;
         }
         return ans->next;
     }
