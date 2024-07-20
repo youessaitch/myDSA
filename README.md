@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/youessaitch/myDSA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/youessaitch/myDSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/youessaitch/myDSA/tree/master/0134-gas-station) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String
 |  |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Queue
 |  |
