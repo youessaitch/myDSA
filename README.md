@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/youessaitch/myDSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/youessaitch/myDSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/youessaitch/myDSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/youessaitch/myDSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/youessaitch/myDSA/tree/master/2472-build-a-matrix-with-conditions) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 ## Monotonic Stack
 |  |
