@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/youessaitch/myDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/youessaitch/myDSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/youessaitch/myDSA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/youessaitch/myDSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/youessaitch/myDSA/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
