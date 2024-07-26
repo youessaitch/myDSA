@@ -1,50 +1,50 @@
 class Solution {
 public:
-    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> grid(n, vector<int>(n, 1e5));
-        for(auto it: edges){
-            int i = it[0];
-            int j = it[1];
-            int w = it[2];
-            grid[i][j]=w; //undirected
-            grid[j][i]=w; //undirected
-        }
+    #define pi pair<int,int>
 
-        //floyd warshall
+    int djikstra(int n, vector<vector<pi>> &adj, int S, int &distanceThreshold){
+        priority_queue<pi,vector<pi>,greater<pi>> pq;
+        vector<int> dis(n,1e9);
+        dis[S] = 0;
+        pq.push({0,S});
+        while(!pq.empty()){
+            auto t = pq.top();
+            int wt = t.first;
+            int node = t.second;
+            pq.pop();
 
-        for(int via=0;via<n;via++){ //main part
-            for(int i=0;i<n;i++){
-                for(int j=0;j<n;j++){
-                    
-                    grid[i][j] = min(grid[i][j], grid[i][via]+grid[via][j]);
-                    //i->via then via->j
+            for(auto it: adj[node]){
+                int newNode = it.first;
+                int newWt = it.second;
+                if(wt + newWt < dis[newNode]){
+                    dis[newNode] = wt+newWt;
+                    pq.push({wt+newWt,newNode});
                 }
             }
         }
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                grid[i][i]=0; //diagonal values should be zero since 0->0 jane ka distance = 0, 1->1 also 0, etc
-                // cout<<grid[i][j]<<" ";
-            }
-            // cout<<endl;
-        }
         int cnt = 0;
-        int mini=1e5;
+        for(int i=0;i<n;i++){
+            if(i==S) continue;
+            if(dis[i] <= distanceThreshold) cnt++;
+        }
+        return cnt;
+    }
+
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        vector<vector<pi>> adj(n);
+        for(auto it: edges){
+            adj[it[0]].push_back({it[1],it[2]});
+            adj[it[1]].push_back({it[0],it[2]});
+        } 
+        int mini = 1e9;
         int ans = 0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]!=0 && grid[i][j]<=distanceThreshold) cnt++;
-                // cout<<grid[i][j]<<" ";
-            }
+            int cnt = djikstra(n, adj, i, distanceThreshold);
             if(cnt<=mini){
                 mini = cnt;
                 ans = i;
             }
-            cnt=0;
-            // cout<<endl;
         }
-
         return ans;
     }
 };
