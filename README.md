@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/youessaitch/myDSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/youessaitch/myDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/youessaitch/myDSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/youessaitch/myDSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/youessaitch/myDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/youessaitch/myDSA/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
