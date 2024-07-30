@@ -1,43 +1,42 @@
 class Solution {
 public:
-    #define P pair<int, int>
+    #define pi pair<int, int>
 
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
-        unordered_map<int, vector<int>> adj(n + 1);
-        for (auto& edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        vector<int> adj[n+1]; //1 to n
+        for(auto it: edges){
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
 
-        vector<int> d1(n + 1, INT_MAX);
-        vector<int> d2(n + 1, INT_MAX);
-        priority_queue<P, vector<P>, greater<P>> pq;
-        pq.push({0, 1});
+        priority_queue<pi,vector<pi>, greater<pi>> pq;
+        vector<int> d1(n+1,1e9); //min distance
+        vector<int> d2(n+1,1e9); //second minimum
+
+        pq.push({0,1}); //{timePassed,node} 
         d1[1] = 0;
 
-        while (!pq.empty()) {
-            auto [timePassed, node] = pq.top();
+        while(!pq.empty()){
+            auto top = pq.top();
+            int timePassed = top.first;
+            int node = top.second;
             pq.pop();
 
-            if (d2[n] != INT_MAX && node == n) { //We reached n 2nd time means it's the second minimum
-                return d2[n];
+            if(d2[n]!=1e9 && node == n) return d2[n];
+
+            int mult = timePassed/change;
+            if(mult%2==1){ // red light
+                timePassed = change*(mult+1); //green light
             }
 
-            int mult = timePassed / change;
-            if(mult % 2 == 1) { //Red
-                timePassed = change * (mult + 1); //to set green
-            }
-
-            for (auto& nbr : adj[node]) {
-                if (d1[nbr] > timePassed + time) { //+time for this edge to reach nbr
-                    d2[nbr] = d1[nbr];
-                    d1[nbr] = timePassed + time;
-                    pq.push({timePassed + time, nbr});
-                } else if (d2[nbr] > timePassed + time && d1[nbr] != timePassed + time) {
-                    d2[nbr] = timePassed + time;
-                    pq.push({timePassed + time, nbr});
+            for(auto it: adj[node]){
+                if(d1[it] > timePassed+time){ //time is edge weight
+                    d2[it] = d1[it];
+                    d1[it] = timePassed+time;
+                    pq.push({timePassed+time,it});
+                }else if(d2[it]>timePassed+time && d1[it]!=timePassed+time){ //between shortest and second shortest time
+                    d2[it] = timePassed+time;
+                    pq.push({timePassed+time,it});
                 }
             }
         }
