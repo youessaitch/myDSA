@@ -3,14 +3,12 @@ public:
     int minimumDeletions(string s) {
         int n = s.size();
         //aababbab
-        //aabbbbbb
+        
+        vector<int> cnta(n); //prefix sum for a
+        vector<int> cntb(n); //prefix sum for b
 
-        //bbaaaaabb
-        //bbbbbbbbb
-        //aaaaaaabb
-        vector<int> cnta(n);
-        vector<int> cntb(n);
-        for(int i=0;i<n;i++){
+        //cnt prefix sum
+        for(int i=0;i<n;i++){ 
             if(i==0){
                 if(s[i]=='a') cnta[i] = 1;
                 else if(s[i]=='b') cntb[i] = 1;
@@ -25,17 +23,11 @@ public:
                 }
             }
         }
-        // for(int i=0;i<n;i++){
-        //     cout<<cnta[i]<<" ";
-        // }
-        // cout<<endl;
-        // for(int i=0;i<n;i++){
-        //     cout<<cntb[i]<<" ";
-        // }
-        // cout<<endl;
 
         int mini = 1e9;
         int temp = 0;
+
+        // temp = (number of 'b' before it + number of 'a' after it)
         for(int i=0;i<n;i++){
             if(i==0){
                 temp = cnta[n-1]-cnta[i];
