@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/youessaitch/myDSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/youessaitch/myDSA/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/youessaitch/myDSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/youessaitch/myDSA/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/youessaitch/myDSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
