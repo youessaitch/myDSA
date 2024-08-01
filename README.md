@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/youessaitch/myDSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/youessaitch/myDSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/youessaitch/myDSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
