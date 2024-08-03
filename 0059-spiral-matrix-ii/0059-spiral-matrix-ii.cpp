@@ -10,14 +10,14 @@ public:
         bool down = true;
         while(l<=r && u<=d){
             if(right){
-                for(int i=l;i<=r;i++){
+                for(int i=l;i<=r;i++){ //l->r
                     ans[u][i] = cnt;
                     cnt++;
                 }
                 u++;
                 right = !right;
             }else{
-                for(int i=r;i>=l;i--){
+                for(int i=r;i>=l;i--){ //r->l
                     ans[d][i] = cnt;
                     cnt++;
                 }
@@ -26,14 +26,14 @@ public:
             }
 
             if(down){
-                for(int i=u;i<=d;i++){
+                for(int i=u;i<=d;i++){ //u->d
                     ans[i][r] = cnt;
                     cnt++;
                 }
                 r--;
                 down = !down;
             }else{
-                for(int i=d;i>=u;i--){
+                for(int i=d;i>=u;i--){ //d->u
                     ans[i][l] = cnt;
                     cnt++;
                 }
