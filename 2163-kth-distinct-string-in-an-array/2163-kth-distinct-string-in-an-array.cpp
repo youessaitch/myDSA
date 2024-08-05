@@ -8,12 +8,9 @@ public:
             i++;
         }
         vector<pair<int,string>> v;
-        for (auto it = mpp.begin(); it != mpp.end(); ) {
-            if (it->second.size() > 1) {
-                it = mpp.erase(it); // Use the iterator returned by erase
-            } else {
+        for (auto it = mpp.begin(); it != mpp.end(); it++) {
+            if(it->second.size()==1){
                 v.push_back({it->second[0],it->first});
-                ++it;
             }
         }
 
@@ -26,6 +23,5 @@ public:
         if(v.size()<k) return "";
 
         return v[k-1].second;
-        // return "";
     }
 };
