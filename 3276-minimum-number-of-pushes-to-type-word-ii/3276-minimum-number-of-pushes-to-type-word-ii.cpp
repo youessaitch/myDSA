@@ -11,9 +11,6 @@ public:
         for(auto it: mpp) v.push_back(it.second);
         sort(v.begin(),v.end(),greater<int>());
         int ans = 0;
-        // for(int i=0;i<8;i++){
-        //     ans+=v[i];
-        // }
         int m = v.size();
         int k = mpp.size()/8;
         int rest = mpp.size()%8;
