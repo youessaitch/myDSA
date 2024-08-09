@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/youessaitch/myDSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/youessaitch/myDSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/youessaitch/myDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/youessaitch/myDSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/youessaitch/myDSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/youessaitch/myDSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/youessaitch/myDSA/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
@@ -980,4 +982,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youessaitch/myDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
