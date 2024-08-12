@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/youessaitch/myDSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/youessaitch/myDSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Simulation
 |  |
 | ------- |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
@@ -947,10 +951,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
 | ------- |
