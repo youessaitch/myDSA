@@ -4,15 +4,15 @@ public:
         int n = nums1.size();
         int m = nums2.size();
 
-        // if(n==0){
-        //     if(m%2==1) return 1.0*nums2[m/2];
-        //     else return 1.0*(nums2[m/2]+nums2[m/2-1])/2.0;
-        // }
+        if(n==0){
+            if(m%2==1) return 1.0*nums2[m/2];
+            else return 1.0*(nums2[m/2]+nums2[m/2-1])/2.0;
+        }
 
-        // if(m==0){
-        //     if(n%2==1) return 1.0*nums1[n/2];
-        //     else return 1.0*(nums1[n/2]+nums1[n/2-1])/2.0;
-        // }
+        if(m==0){
+            if(n%2==1) return 1.0*nums1[n/2];
+            else return 1.0*(nums1[n/2]+nums1[n/2-1])/2.0;
+        }
 
         if (n > m) {
             return findMedianSortedArrays(nums2, nums1);
