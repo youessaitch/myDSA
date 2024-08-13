@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/youessaitch/myDSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/youessaitch/myDSA/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/youessaitch/myDSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/youessaitch/myDSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/youessaitch/myDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/youessaitch/myDSA/tree/master/0053-maximum-subarray) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/youessaitch/myDSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/youessaitch/myDSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/youessaitch/myDSA/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
