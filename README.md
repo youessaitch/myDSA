@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/youessaitch/myDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/youessaitch/myDSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/youessaitch/myDSA/tree/master/0921-spiral-matrix-iii) |
