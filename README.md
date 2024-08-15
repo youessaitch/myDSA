@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/youessaitch/myDSA/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/youessaitch/myDSA/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/youessaitch/myDSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/youessaitch/myDSA/tree/master/0134-gas-station) |
+| [0890-lemonade-change](https://github.com/youessaitch/myDSA/tree/master/0890-lemonade-change) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
