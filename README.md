@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/youessaitch/myDSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/youessaitch/myDSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/youessaitch/myDSA/tree/master/0134-gas-station) |
+| [0624-maximum-distance-in-arrays](https://github.com/youessaitch/myDSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/youessaitch/myDSA/tree/master/0890-lemonade-change) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
