@@ -20,6 +20,8 @@ public:
             int mini = min(t2,min(t3,t5));
 
             v[i] = mini;
+
+            //increase the pointer that is pointing towards the minimum
             if(mini==t2) i2++;
             if(mini==t3) i3++;
             if(mini==t5) i5++;
