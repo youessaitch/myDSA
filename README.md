@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
 | [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
+| [0650-2-keys-keyboard](https://github.com/youessaitch/myDSA/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/youessaitch/myDSA/tree/master/1642-water-bottles) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/youessaitch/myDSA/tree/master/0650-2-keys-keyboard) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/youessaitch/myDSA/tree/master/1196-filling-bookcase-shelves) |
