@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/youessaitch/myDSA/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/youessaitch/myDSA/tree/master/0921-spiral-matrix-iii) |
+| [0932-monotonic-array](https://github.com/youessaitch/myDSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/youessaitch/myDSA/tree/master/0999-regions-cut-by-slashes) |
