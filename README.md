@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/youessaitch/myDSA/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/youessaitch/myDSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/youessaitch/myDSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/youessaitch/myDSA/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Database
 |  |
 | ------- |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Design
 |  |
 | ------- |
