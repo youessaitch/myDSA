@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Divide and Conquer
 |  |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/youessaitch/myDSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/youessaitch/myDSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/youessaitch/myDSA/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Counting
 |  |
