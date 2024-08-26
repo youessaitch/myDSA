@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/youessaitch/myDSA/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Two Pointers
 |  |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/youessaitch/myDSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Binary Search Tree
 |  |
@@ -1088,4 +1090,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/youessaitch/myDSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
