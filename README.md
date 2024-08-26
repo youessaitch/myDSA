@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
 | ------- |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## String
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Binary Search Tree
 |  |
