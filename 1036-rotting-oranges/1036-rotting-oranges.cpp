@@ -2,7 +2,7 @@ class Solution {
 public:
     int n,m;
 
-    // check func
+    // check func for checking bound
     bool check(int i, int j){
         return i>=0 && i< n && j>=0 && j<m;
     }
@@ -46,13 +46,13 @@ public:
 
                     if(check(nr,nc) && grid[nr][nc]==1){
                         q.push({nr,nc});
-                        grid[nr][nc]=2;
+                        grid[nr][nc]=2; // we do not need to revisit these nodes
                         cnt++;
                         ch = true;
                     }
                 }
             }
-            if(ch) t++;
+            if(ch) t++; //if any ornages get rotten in the way increase the timer
         }
 
         if(cnt!=freshCnt) return -1;
