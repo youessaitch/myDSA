@@ -5,8 +5,12 @@ public:
 
     long long minimumOperations(vector<int>& nums, vector<int>& target) {
         n = nums.size();
-        // 1 1 1 2
-        // 1 -2 2
+        // 1 1 1 2 -> 0 0 0 0 
+        // 1 -2 2 -> 0 0 0
+
+        //i.e;
+        // 0 0 0 0 -> 1 1 1 2
+        // 0 0 0 -> 1 -2 2
         ll ans = 0;
         vector<int> v(n);
         for(int i=0;i<n;i++){
