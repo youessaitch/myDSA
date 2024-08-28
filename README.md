@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/youessaitch/myDSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/youessaitch/myDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/youessaitch/myDSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/youessaitch/myDSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/youessaitch/myDSA/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/youessaitch/myDSA/tree/master/0213-house-robber-ii) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/youessaitch/myDSA/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/youessaitch/myDSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/youessaitch/myDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/youessaitch/myDSA/tree/master/0171-excel-sheet-column-number) |
