@@ -11,35 +11,28 @@
  */
 class Solution {
 public:
-    void preorder(TreeNode* root, vector<int> &pre){
+    vector<int> pre;
+
+    void preorder(TreeNode* root){
         if(!root) return;
 
         pre.push_back(root->val);
-        if(root->left)
-            preorder(root->left,pre);
-        if(root->right)
-            preorder(root->right,pre);
+        if(root->left) preorder(root->left);
+        if(root->right) preorder(root->right);
     }
 
     void flatten(TreeNode* root) {
-        if (!root) return;
+        if(!root) return;
 
-        vector<int> pre;
-        preorder(root,pre);
+        preorder(root);
 
-        for(int i=0;i<pre.size();i++){
-            cout<<pre[i]<<" ";
-        }
+        TreeNode* p1 = root;
 
-        TreeNode* curr = root;
-        //i=0 is the root itself in preorder, so start with i=1
         for(int i=1;i<pre.size();i++){
-            TreeNode* node = new TreeNode(pre[i]);
-
-            curr->left = nullptr;
-            curr->right = node;
-            curr = curr->right;
+            TreeNode* temp = new TreeNode(pre[i]);
+            p1->right = temp;
+            p1->left = nullptr;
+            p1 = p1->right;
         }
-
     }
 };
