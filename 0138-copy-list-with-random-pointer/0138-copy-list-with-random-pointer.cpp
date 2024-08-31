@@ -16,27 +16,30 @@ public:
 
 class Solution {
 public:
-
-// What does the question asks?
-// I was confused with the question for a bit. But understood it, Basically the question is to deep copy the linked list, that is make an exact copy.(replicate the random nodes too)
-// If it was simple single linked list, it was simple. Just make a copy on the go and connect the nodes.
-// But if the random element is present we have to replicate it to, just imagine you made a new node and the random of this node points to a node which is not yet created ?What will you do? How will you Point to that node, thats what we have to solve here,
-
     Node* copyRandomList(Node* head) {
         Node* p1 = head;
+        Node* ans = new Node(-1);
+        Node* p2 = ans;
         unordered_map<Node*,Node*> mpp;
-        while(p1!=NULL){
-            mpp[p1] = new Node(p1->val);
-            p1 = p1->next;
-        }
-        
-        p1 = head;
-        while(p1!=NULL){
-            mpp[p1]->next = mpp[p1->next];
-            mpp[p1]->random = mpp[p1->random];
-            p1 = p1->next;
+
+        while(p1!=nullptr){
+            Node* temp = new Node(p1->val);
+            mpp[p1] = temp; //original to new mapping
+            p2->next = temp;
+            p1=p1->next;
+            p2=p2->next;
         }
 
-        return mpp[head];
+        p2->next = nullptr;
+
+        p2 = ans->next;
+        p1 = head;
+        while(p1!=nullptr){
+            p2->random = mpp[p1->random];
+            p1=p1->next;
+            p2=p2->next;
+        }
+
+        return ans->next;
     }
 };
