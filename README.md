@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/youessaitch/myDSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/youessaitch/myDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/youessaitch/myDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/youessaitch/myDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/youessaitch/myDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/youessaitch/myDSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/youessaitch/myDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/youessaitch/myDSA/tree/master/0203-remove-linked-list-elements) |
