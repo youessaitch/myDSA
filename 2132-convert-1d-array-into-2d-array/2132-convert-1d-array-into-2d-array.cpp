@@ -8,9 +8,10 @@ public:
         int ele = 0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                v[i][j] = original[i*n+j];
+                v[i][j] = original[j+t];
                 ele++;
             }
+            t+=n;
         }
         if(ele != original.size()) return {};
         return v;
