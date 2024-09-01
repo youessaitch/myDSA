@@ -11,38 +11,15 @@
  */
 class Solution {
 public:
-    // void dfs(TreeNode* node, vector<int> &a){
-    //     if(!node) return;
-
-        
-    // }
-
     bool isSameTree(TreeNode* p, TreeNode* q) {
         if(!p && !q) return true;
+
         if(!p || !q) return false;
+
+        // if(p->val == q->val) return true;
+    
         if(p->val != q->val) return false;
 
-        return (isSameTree(p->left,q->left) && isSameTree(p->right,q->right));
-
-        // queue<TreeNode*> qu;
-        // qu.push(p);
-        // qu.push(q);
-
-        // while(!qu.empty()){
-        //     auto p1 = qu.front();
-        //     qu.pop();
-        //     auto q1 = qu.front();
-        //     qu.pop();
-
-        //     if(!p1 && !q1)continue;
-        //     if(!p1 || !q1) return false;
-        //     if(p1->val != q1->val) return false;
-
-        //     qu.push(p1->left);
-        //     qu.push(q1->left);
-        //     qu.push(p1->right);
-        //     qu.push(q1->right);
-        // }
-        // return true;
+        return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
 };
