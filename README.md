@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/youessaitch/myDSA/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/youessaitch/myDSA/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Divide and Conquer
 |  |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/youessaitch/myDSA/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
 ## String
 |  |
 | ------- |
