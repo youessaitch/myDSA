@@ -21,14 +21,16 @@ public:
         // }
         // cout<<endl;
 
-        ll cnt = 0;
-        ll i = 0;
+        ll cnt = 0; 
+        ll i = 0; //index
 
         while(i<n){
-            if(nger[i]==-1){
+            if(nger[i]==-1){ //if we encounter theres no more greater element to right then take all the indices upto last
                 cnt += (ll)nums[i] * (n - 1 - i);
                 break;
             }
+
+            //else calculate upto the next greater element
             cnt += (ll)nums[i]*(nger[i]-i);
             i = nger[i];
         }
