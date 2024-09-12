@@ -7,6 +7,9 @@ public:
 
         int maxi = INT_MIN;
         for(int i=0;i<n;i++){
+            if(p==0) p=1;
+            if(s==0) s=1;
+
             p*=nums[i];
             s*=nums[n-i-1];
 
