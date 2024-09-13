@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/youessaitch/myDSA/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/youessaitch/myDSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/youessaitch/myDSA/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -1120,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/youessaitch/myDSA/tree/master/1325-path-with-maximum-probability) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/youessaitch/myDSA/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Shortest Path
 |  |
 | ------- |
