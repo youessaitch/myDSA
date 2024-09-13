@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/youessaitch/myDSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/youessaitch/myDSA/tree/master/0222-count-complete-tree-nodes) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/youessaitch/myDSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/youessaitch/myDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/youessaitch/myDSA/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/youessaitch/myDSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/youessaitch/myDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Design
