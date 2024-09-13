@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/youessaitch/myDSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/youessaitch/myDSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2846-robot-collisions](https://github.com/youessaitch/myDSA/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Dynamic Programming
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
