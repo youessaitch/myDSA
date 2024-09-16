@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/youessaitch/myDSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/youessaitch/myDSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/youessaitch/myDSA/tree/master/0650-2-keys-keyboard) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/youessaitch/myDSA/tree/master/0436-find-right-interval) |
+| [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/youessaitch/myDSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/youessaitch/myDSA/tree/master/0664-strange-printer) |
