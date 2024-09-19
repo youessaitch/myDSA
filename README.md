@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/youessaitch/myDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/youessaitch/myDSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/youessaitch/myDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/youessaitch/myDSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/youessaitch/myDSA/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/youessaitch/myDSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/youessaitch/myDSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/youessaitch/myDSA/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
@@ -1225,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/youessaitch/myDSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Strongly Connected Component
 |  |
 | ------- |
