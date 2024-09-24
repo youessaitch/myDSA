@@ -1,32 +1,36 @@
 class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        unordered_map<string, int> prefixMap;
-        
-        // Step 1: Build the prefix map for arr1
-        for (int num : arr1) {
-            string strNum = to_string(num);
-            string prefix = "";
-            for (char ch : strNum) {
-                prefix += ch;
-                prefixMap[prefix]++;
+        int n,m;
+        n = arr1.size();
+        m = arr2.size();
+
+        unordered_map<string,int> mpp;
+
+        for(int i=0;i<n;i++){
+            int temp = arr1[i];
+            string s = to_string(temp);
+            string h = "";
+            for(int j=0;j<s.size();j++){
+                h+=s[j];
+                mpp[h]++;
+            }
+        }
+
+        int maxi = 0;
+
+        for(int i=0;i<m;i++){
+            int temp = arr2[i];
+            string s = to_string(temp);
+            string h = "";
+            for(int j=0;j<s.size();j++){
+                h+=s[j];
+                if(mpp.find(h)!=mpp.end()){
+                    maxi = max(maxi,(int)h.size());
+                }else break;
             }
         }
         
-        int maxLength = 0;
-        
-        // Step 2: Check for common prefixes in arr2
-        for (int num : arr2) {
-            string strNum = to_string(num);
-            string prefix = "";
-            for (char ch : strNum) {
-                prefix += ch;
-                if (prefixMap.find(prefix) != prefixMap.end()) {
-                    maxLength = max(maxLength, static_cast<int>(prefix.length()));
-                }
-            }
-        }
-        
-        return maxLength;
+        return maxi;
     }
 };
