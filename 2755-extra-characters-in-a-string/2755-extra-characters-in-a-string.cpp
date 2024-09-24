@@ -1,47 +1,38 @@
 class Solution {
-private:
-    unordered_map<string, int> um;  // Dictionary words
-    unordered_map<int, int> memo;   // Memoization map for storing dp results
+public:
+    int n;
+    unordered_map<string,int> mpp;
+    vector<int> dp;
 
-    int solve(string& s, int ind) {
-        // base condition, where recursion gets over
-        if (ind >= s.size()) {
-            return 0;
-        }
+    int solve(int i, string &s){
+        if(i>=n) return 0;
 
-        if (memo.find(ind) != memo.end()) {
-            // Return memoized result if already computed
-            return memo[ind];  
-        }
+        if(dp[i]!=-1) return dp[i];
 
         int extra = INT_MAX;
-        string tmp = "";
+        string t = "";
 
-        // Try all substrings starting from the current index
-        for (int i = ind; i < s.size(); i++) {
-            tmp += s[i];
-            if (um.find(tmp) != um.end()) {
-                // If the substring is in the dictionary, solve for the remaining part
-                extra = min(extra, solve(s, i + 1));
+        for(int j = i; j < n; j++){
+            t += s[j];
+            if(mpp.find(t)!=mpp.end()){
+                int temp = solve(j+1,s);
+                extra = min(extra,temp); //spliiting the string
             }
         }
 
-        // Consider the case where the current character is counted as extra
-        // basically skipping the current ind = 0
-        extra = min(extra, 1 + solve(s, ind + 1));
-
-        // Memoize the result for the current index
-        memo[ind] = extra;
+        extra = min(extra,1+solve(i+1,s)); //skipping a character, thats why +1
         
-        return memo[ind];
+        return dp[i] = extra;
     }
 
-public:
     int minExtraChar(string s, vector<string>& dict) {
-        for (auto& val : dict) {
-            um[val]++;
-        }
+        n = s.size();
 
-        return solve(s, 0);  // Start the recursion from index 0
+        for(auto it: dict) mpp[it]++;
+
+        dp.resize(n,-1);
+
+        return solve(0,s);
+
     }
 };
