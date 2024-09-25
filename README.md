@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/youessaitch/myDSA/tree/master/0436-find-right-interval) |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/youessaitch/myDSA/tree/master/0436-find-right-interval) |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/youessaitch/myDSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/youessaitch/myDSA/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/youessaitch/myDSA/tree/master/1014-k-closest-points-to-origin) |
@@ -1131,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Backtracking
 |  |
@@ -1205,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/youessaitch/myDSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/youessaitch/myDSA/tree/master/0948-sort-an-array) |
 ## Trie
 |  |
@@ -1235,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/youessaitch/myDSA/tree/master/1511-count-number-of-teams) |
 ## Sliding Window
 |  |
@@ -1265,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/youessaitch/myDSA/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Minimum Spanning Tree
 |  |
