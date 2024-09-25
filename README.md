@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/youessaitch/myDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/youessaitch/myDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/youessaitch/myDSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/youessaitch/myDSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/youessaitch/myDSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/youessaitch/myDSA/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/youessaitch/myDSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/youessaitch/myDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/youessaitch/myDSA/tree/master/0273-integer-to-english-words) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/youessaitch/myDSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/youessaitch/myDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/youessaitch/myDSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/youessaitch/myDSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
