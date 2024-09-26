@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/youessaitch/myDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/youessaitch/myDSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/youessaitch/myDSA/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Backtracking
 |  |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/youessaitch/myDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
+| [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -1276,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/youessaitch/myDSA/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Minimum Spanning Tree
 |  |
