@@ -8,6 +8,7 @@ public:
         vector<int> ans;
 
         for(int i=0;i<k;i++){
+            //aage wale chote hai not needed so remove ( monotonic )
             while(!dq.empty() && nums[i]>=nums[dq.back()]){
                 dq.pop_back();
             }
@@ -21,7 +22,8 @@ public:
             while(!dq.empty() && dq.front() <= i-k){
                 dq.pop_front();
             }
-
+            
+            //aage wale chote hai not needed so remove ( monotonic )
             while(!dq.empty() && nums[i]>=nums[dq.back()]){
                 dq.pop_back();
             }
