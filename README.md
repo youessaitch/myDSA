@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/youessaitch/myDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/youessaitch/myDSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/youessaitch/myDSA/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
@@ -1103,11 +1104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/youessaitch/myDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/youessaitch/myDSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
@@ -1253,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/youessaitch/myDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
