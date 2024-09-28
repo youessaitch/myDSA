@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/youessaitch/myDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/youessaitch/myDSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/youessaitch/myDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/youessaitch/myDSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/youessaitch/myDSA/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/youessaitch/myDSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/youessaitch/myDSA/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/youessaitch/myDSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/youessaitch/myDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/youessaitch/myDSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
