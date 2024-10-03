@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/youessaitch/myDSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/youessaitch/myDSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/youessaitch/myDSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Memoization
 |  |
 | ------- |
