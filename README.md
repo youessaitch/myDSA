@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/youessaitch/myDSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/youessaitch/myDSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/youessaitch/myDSA/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Binary Search
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/youessaitch/myDSA/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/youessaitch/myDSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/youessaitch/myDSA/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
