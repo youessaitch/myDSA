@@ -1,13 +1,21 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>> &adj, vector<int> &colors, int currColor){
-        colors[node] = currColor;
+    bool bfs(int i, vector<vector<int>> &adj, vector<int> &colors, int currColor){
+        queue<int> q;
+        q.push(i);
+        colors[i] = currColor;
 
-        for(auto it: adj[node]){
-            if(colors[it]==currColor) return false;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
 
-            if(colors[it]==-1){
-                if(dfs(it,adj,colors,1-currColor) == false) return false;
+            for(auto it: adj[node]){
+                if(colors[it] == colors[node]) return false;
+
+                if(colors[it] == -1){
+                    colors[it] = !colors[node];
+                    q.push(it);
+                }
             }
         }
 
@@ -26,7 +34,7 @@ public:
 
         for(int i=0;i<n;i++){
             if(colors[i]==-1){
-                if(dfs(i,adj,colors,1) == false) return false;
+                if(bfs(i,adj,colors,1) == false) return false;
             }
         }
 
