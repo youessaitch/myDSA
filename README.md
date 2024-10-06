@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/youessaitch/myDSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/youessaitch/myDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/youessaitch/myDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1168,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/youessaitch/myDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
