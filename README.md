@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/youessaitch/myDSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/youessaitch/myDSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/youessaitch/myDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
+| [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-maximum-multiplication-score](https://github.com/youessaitch/myDSA/tree/master/3518-maximum-multiplication-score) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Counting
 |  |
 | ------- |
