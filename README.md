@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/youessaitch/myDSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
+| [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Divide and Conquer
 |  |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/youessaitch/myDSA/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
 ## Dynamic Programming
 |  |
 | ------- |
