@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/youessaitch/myDSA/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/youessaitch/myDSA/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/youessaitch/myDSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/youessaitch/myDSA/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/youessaitch/myDSA/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
 ## Dynamic Programming
 |  |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/youessaitch/myDSA/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/youessaitch/myDSA/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/youessaitch/myDSA/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/youessaitch/myDSA/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## String
 |  |
 | ------- |
