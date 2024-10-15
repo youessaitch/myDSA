@@ -31,7 +31,7 @@ public:
             }
             take = min(take, min(take1,take2));
         }
-        if(lane == 2){
+        else if(lane == 2){
             int take1 = 1e9;
             int take2 = 1e9;
 
@@ -43,7 +43,7 @@ public:
             }
             take = min(take, min(take1,take2));
         }
-        if(lane == 3){
+        else if(lane == 3){
             int take1 = 1e9;
             int take2 = 1e9;
 
