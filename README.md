@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/youessaitch/myDSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/youessaitch/myDSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/youessaitch/myDSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/youessaitch/myDSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/youessaitch/myDSA/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -1377,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/youessaitch/myDSA/tree/master/0713-subarray-product-less-than-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/youessaitch/myDSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/youessaitch/myDSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/youessaitch/myDSA/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
