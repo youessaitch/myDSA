@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/youessaitch/myDSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/youessaitch/myDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/youessaitch/myDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/youessaitch/myDSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/youessaitch/myDSA/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/youessaitch/myDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/youessaitch/myDSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/youessaitch/myDSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/youessaitch/myDSA/tree/master/0071-simplify-path) |
