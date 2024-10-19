@@ -21,8 +21,9 @@ public:
             ll temp = (j-i+1)*(pref[j] - (i>0 ? pref[i-1]:0));
 
             while(i<=j && (mpp.rbegin()->first + temp > b)){
+                //mpp.erase(it) instead of mpp.erase(ct[i]) since we want to delete only 1 occurence of the ct[i]
                 auto it = mpp.find(ct[i]);
-                if(mpp.find(ct[i]) != mpp.end()) mpp.erase(it);
+                if(mpp.find(ct[i]) != mpp.end()) mpp.erase(it); //****
                 i++;
 
                 temp = (j-i+1)*(pref[j] - (i>0 ? pref[i-1]:0));
