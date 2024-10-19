@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/youessaitch/myDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/youessaitch/myDSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/youessaitch/myDSA/tree/master/2411-spiral-matrix-iv) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2472-build-a-matrix-with-conditions](https://github.com/youessaitch/myDSA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/youessaitch/myDSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1234,12 +1236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/youessaitch/myDSA/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/youessaitch/myDSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/youessaitch/myDSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
@@ -1312,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/youessaitch/myDSA/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/youessaitch/myDSA/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/youessaitch/myDSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
@@ -1331,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/youessaitch/myDSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/youessaitch/myDSA/tree/master/1694-make-sum-divisible-by-p) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/youessaitch/myDSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -1410,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/youessaitch/myDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/youessaitch/myDSA/tree/master/0940-fruit-into-baskets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/youessaitch/myDSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/youessaitch/myDSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/youessaitch/myDSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
