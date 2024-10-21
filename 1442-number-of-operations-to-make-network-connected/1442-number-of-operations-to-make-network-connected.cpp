@@ -1,62 +1,67 @@
-class DisjointSet {
+class DSU{
+    vector<int> rank, par;
 public:
-    vector<int> rank, parent;
-    DisjointSet(int n) {
-        rank.resize(n + 1, 0);
-        parent.resize(n + 1);
 
-        for (int i = 0; i <= n; i++) {
-            parent[i] = i;
-        }
+    DSU(int n){
+        rank.resize(n+1,0);
+        par.resize(n+1);
+
+        for(int i=0;i<=n;i++) par[i] = i;
     }
 
-    int find(int node) {
-        if (node == parent[node])
-            return node;
-        return parent[node] = find(parent[node]);
+    int find(int node){
+        if(par[node] == node) return node;
+
+        return par[node] = find(par[node]);
     }
 
-    void unionByRank(int u, int v) {
-        int ulp_u = find(u);
-        int ulp_v = find(v);
-        if (ulp_u == ulp_v) return;
-        if (rank[ulp_u] < rank[ulp_v]) {
-            parent[ulp_u] = ulp_v;
-        }
-        else if (rank[ulp_v] < rank[ulp_u]) {
-            parent[ulp_v] = ulp_u;
-        }
-        else {
-            parent[ulp_v] = ulp_u;
-            rank[ulp_u]++;
+    void unionByRank(int u, int v){
+        int root_u = find(u);
+        int root_v = find(v);
+
+        if(root_u == root_v) return;
+
+        if(rank[root_u] < rank[root_v]){
+            par[root_u] = root_v;
+        }else if(rank[root_u] > rank[root_v]){
+            par[root_v] = root_u;
+        }else{
+            par[root_v] = root_u;
+            rank[root_u]++;
         }
     }
 };
 
 class Solution {
 public:
-//First we'll make Disjoint sets from connection then iterate through it and check, if parent[i]==i. That means we have those are not connected components
     int makeConnected(int n, vector<vector<int>>& connections) {
         int m = connections.size();
-        if (m < n - 1) return -1;
 
-        DisjointSet ds(n); //object
+        if(m<n-1) return -1;
 
-        int cntExtra = 0;
-        for(auto it: connections){
+        DSU ds(n);
+
+        int cnt = m;
+        int t = 0;
+        for(auto &it: connections){
             int u = it[0];
             int v = it[1];
 
-            if(ds.find(u)==ds.find(v)) continue;
-            else ds.unionByRank(u,v);
+            // if(ds.find(u) != ds.find(v)){
+            //     ds.unionByRank(u,v);
+            //     cnt--;
+            //     t++;
+            // }
+            ds.unionByRank(u,v);
         }
 
-        int cntC = 0;
-        for (int i = 0; i < n; i++) {
-            if (ds.parent[i] == i) cntC++;
+        int components = 0;
+        for(int i=0;i<n;i++){
+            if(ds.find(i)==i){
+                components++;
+            }
         }
-        int ans = cntC - 1; //one of them will be connected so cnt-1
-        return ans;
-        
+
+        return components-1;
     }
 };
