@@ -37,9 +37,9 @@ public:
         vector<int> dp1(m+1,-1);
         
         int ans1 = solve(0,m,mpp,dp1);
-        int ans2 = solve(1,m,mpp,dp1);
+        // int ans2 = solve(1,m,mpp,dp1);
 
-        return max(ans1,ans2);
+        return max(ans1,0);
     }
 };
 
