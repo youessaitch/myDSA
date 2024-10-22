@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/youessaitch/myDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/youessaitch/myDSA/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/youessaitch/myDSA/tree/master/0726-number-of-atoms) |
+| [0740-delete-and-earn](https://github.com/youessaitch/myDSA/tree/master/0740-delete-and-earn) |
 | [0837-most-common-word](https://github.com/youessaitch/myDSA/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/youessaitch/myDSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/youessaitch/myDSA/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/youessaitch/myDSA/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/youessaitch/myDSA/tree/master/0837-most-common-word) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/youessaitch/myDSA/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/youessaitch/myDSA/tree/master/0664-strange-printer) |
+| [0740-delete-and-earn](https://github.com/youessaitch/myDSA/tree/master/0740-delete-and-earn) |
 | [0954-maximum-sum-circular-subarray](https://github.com/youessaitch/myDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/youessaitch/myDSA/tree/master/1196-filling-bookcase-shelves) |
