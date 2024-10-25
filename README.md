@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/youessaitch/myDSA/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/youessaitch/myDSA/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/youessaitch/myDSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/youessaitch/myDSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/youessaitch/myDSA/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/youessaitch/myDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/youessaitch/myDSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/youessaitch/myDSA/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/youessaitch/myDSA/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/youessaitch/myDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/youessaitch/myDSA/tree/master/0859-design-circular-deque) |
@@ -1451,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/youessaitch/myDSA/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/youessaitch/myDSA/tree/master/1511-count-number-of-teams) |
 ## Sliding Window
