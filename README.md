@@ -1143,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/youessaitch/myDSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/youessaitch/myDSA/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/youessaitch/myDSA/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/youessaitch/myDSA/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/youessaitch/myDSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/youessaitch/myDSA/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2727-number-of-senior-citizens](https://github.com/youessaitch/myDSA/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/youessaitch/myDSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
