@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/youessaitch/myDSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/youessaitch/myDSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/youessaitch/myDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/youessaitch/myDSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/youessaitch/myDSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/youessaitch/myDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/youessaitch/myDSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/youessaitch/myDSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2727-number-of-senior-citizens](https://github.com/youessaitch/myDSA/tree/master/2727-number-of-senior-citizens) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/youessaitch/myDSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/youessaitch/myDSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/youessaitch/myDSA/tree/master/2846-robot-collisions) |
@@ -1099,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-minimum-sideway-jumps](https://github.com/youessaitch/myDSA/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/youessaitch/myDSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/youessaitch/myDSA/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/youessaitch/myDSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
