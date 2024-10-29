@@ -28,7 +28,7 @@ public:
         }
 
         int color[100];
-        std::fill(color, color + n, -1); 
+        for(int i=0;i<n;i++) color[i] = -1;
         int col = 1;
         int vis[100] = {0};
 
