@@ -15,7 +15,6 @@ public:
         if(dp[i][j]!=-1) return dp[i][j];
 
         int take = 0;
-        int notTake = 0;
         for(int k=0;k<3;k++){
             int nr = i + dx[k];
             int nc = j + dy[k];
@@ -25,7 +24,7 @@ public:
             }
         }
         
-        return dp[i][j] = max(take,notTake);
+        return dp[i][j] = take;
     }
 
     int maxMoves(vector<vector<int>>& grid) {
