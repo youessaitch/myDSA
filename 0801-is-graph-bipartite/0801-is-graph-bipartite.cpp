@@ -1,24 +1,15 @@
 class Solution {
 public:
-    bool bfs(int i, vector<vector<int>> &adj, vector<int> &colors, int currColor){
-        queue<int> q;
-        q.push(i);
-        colors[i] = currColor;
+    bool dfs(int node, vector<vector<int>> &adj, vector<int> &color, int col, vector<int> &vis){
+        vis[node] = 1;
+        color[node] = col;
 
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-
-            for(auto it: adj[node]){
-                if(colors[it] == colors[node]) return false;
-
-                if(colors[it] == -1){
-                    colors[it] = !colors[node];
-                    q.push(it);
-                }
+        for(auto &it: adj[node]){
+            if(color[it] == col) return false;
+            if(!vis[it]){
+                if(dfs(it,adj,color,!col,vis)==false) return false;
             }
         }
-
         return true;
     }
 
@@ -26,18 +17,20 @@ public:
         int n = graph.size();
         vector<vector<int>> adj(n);
         for(int i=0;i<n;i++){
-            for(auto it: graph[i])
+            for(auto it: graph[i]){
                 adj[i].push_back(it);
-        }
-
-        vector<int> colors(n,-1);
-
-        for(int i=0;i<n;i++){
-            if(colors[i]==-1){
-                if(bfs(i,adj,colors,1) == false) return false;
+                adj[it].push_back(i);
             }
         }
 
+        vector<int> color(n,-1);
+        int col = 1;
+        vector<int> vis(n,0);
+
+        for(int i=0;i<n;i++){
+            if(!vis[i] && dfs(i,adj,color,col,vis)==false) return false;
+        }
+        
         return true;
     }
 };
