@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/youessaitch/myDSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/youessaitch/myDSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/youessaitch/myDSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/youessaitch/myDSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/youessaitch/myDSA/tree/master/2035-count-sub-islands) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/youessaitch/myDSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/youessaitch/myDSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/youessaitch/myDSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/youessaitch/myDSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/youessaitch/myDSA/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/youessaitch/myDSA/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/youessaitch/myDSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/youessaitch/myDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/youessaitch/myDSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/youessaitch/myDSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/youessaitch/myDSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/youessaitch/myDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/youessaitch/myDSA/tree/master/2171-second-minimum-time-to-reach-destination) |
