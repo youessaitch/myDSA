@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/youessaitch/myDSA/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/youessaitch/myDSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1487-cinema-seat-allocation](https://github.com/youessaitch/myDSA/tree/master/1487-cinema-seat-allocation) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/youessaitch/myDSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/youessaitch/myDSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/youessaitch/myDSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/youessaitch/myDSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1487-cinema-seat-allocation](https://github.com/youessaitch/myDSA/tree/master/1487-cinema-seat-allocation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/youessaitch/myDSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/youessaitch/myDSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/youessaitch/myDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/youessaitch/myDSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/youessaitch/myDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1487-cinema-seat-allocation](https://github.com/youessaitch/myDSA/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/youessaitch/myDSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/youessaitch/myDSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/youessaitch/myDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/youessaitch/myDSA/tree/master/1304-longest-happy-string) |
+| [1487-cinema-seat-allocation](https://github.com/youessaitch/myDSA/tree/master/1487-cinema-seat-allocation) |
 | [1503-reducing-dishes](https://github.com/youessaitch/myDSA/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/youessaitch/myDSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/youessaitch/myDSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
