@@ -1230,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/youessaitch/myDSA/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/youessaitch/myDSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/youessaitch/myDSA/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/youessaitch/myDSA/tree/master/2580-circular-sentence) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/youessaitch/myDSA/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2727-number-of-senior-citizens](https://github.com/youessaitch/myDSA/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
