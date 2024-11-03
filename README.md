@@ -891,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/youessaitch/myDSA/tree/master/3541-report-spam-message) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/youessaitch/myDSA/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/youessaitch/myDSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/youessaitch/myDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
 | ------- |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/youessaitch/myDSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Radix Sort
 |  |
 | ------- |
