@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/youessaitch/myDSA/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/youessaitch/myDSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/youessaitch/myDSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/youessaitch/myDSA/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3386-find-edges-in-shortest-paths](https://github.com/youessaitch/myDSA/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/youessaitch/myDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/youessaitch/myDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/youessaitch/myDSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/youessaitch/myDSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/youessaitch/myDSA/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/youessaitch/myDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/youessaitch/myDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/youessaitch/myDSA/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/youessaitch/myDSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/youessaitch/myDSA/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/youessaitch/myDSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
