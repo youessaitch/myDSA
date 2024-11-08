@@ -1138,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/youessaitch/myDSA/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/youessaitch/myDSA/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/youessaitch/myDSA/tree/master/3575-find-the-maximum-sequence-value-of-array) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/youessaitch/myDSA/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/youessaitch/myDSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/youessaitch/myDSA/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/youessaitch/myDSA/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/youessaitch/myDSA/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Binary Search Tree
 |  |
 | ------- |
