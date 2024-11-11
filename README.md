@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/youessaitch/myDSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/youessaitch/myDSA/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/youessaitch/myDSA/tree/master/2716-prime-subtraction-operation) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/youessaitch/myDSA/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/youessaitch/myDSA/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/youessaitch/myDSA/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/youessaitch/myDSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/youessaitch/myDSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2716-prime-subtraction-operation](https://github.com/youessaitch/myDSA/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/youessaitch/myDSA/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/youessaitch/myDSA/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/youessaitch/myDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/youessaitch/myDSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/youessaitch/myDSA/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/youessaitch/myDSA/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/youessaitch/myDSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/youessaitch/myDSA/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/youessaitch/myDSA/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1182,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/youessaitch/myDSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/youessaitch/myDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/youessaitch/myDSA/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [2716-prime-subtraction-operation](https://github.com/youessaitch/myDSA/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/youessaitch/myDSA/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/youessaitch/myDSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/youessaitch/myDSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -1495,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/youessaitch/myDSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2716-prime-subtraction-operation](https://github.com/youessaitch/myDSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/youessaitch/myDSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/youessaitch/myDSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Radix Sort
