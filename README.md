@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/youessaitch/myDSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/youessaitch/myDSA/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/youessaitch/myDSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/youessaitch/myDSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/youessaitch/myDSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/youessaitch/myDSA/tree/master/0496-next-greater-element-i) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/youessaitch/myDSA/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/youessaitch/myDSA/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/youessaitch/myDSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/youessaitch/myDSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/youessaitch/myDSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/youessaitch/myDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/youessaitch/myDSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/youessaitch/myDSA/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/youessaitch/myDSA/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/youessaitch/myDSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/youessaitch/myDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/youessaitch/myDSA/tree/master/0658-find-k-closest-elements) |
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/youessaitch/myDSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/youessaitch/myDSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/youessaitch/myDSA/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/youessaitch/myDSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/youessaitch/myDSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/youessaitch/myDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/youessaitch/myDSA/tree/master/0670-maximum-swap) |
