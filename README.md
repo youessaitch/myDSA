@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/youessaitch/myDSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/youessaitch/myDSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/youessaitch/myDSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/youessaitch/myDSA/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/youessaitch/myDSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/youessaitch/myDSA/tree/master/1036-rotting-oranges) |
 | [1087-longest-arithmetic-subsequence](https://github.com/youessaitch/myDSA/tree/master/1087-longest-arithmetic-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/youessaitch/myDSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/youessaitch/myDSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/youessaitch/myDSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/youessaitch/myDSA/tree/master/1256-rank-transform-of-an-array) |
@@ -1335,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/youessaitch/myDSA/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/youessaitch/myDSA/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/youessaitch/myDSA/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/youessaitch/myDSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/youessaitch/myDSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/youessaitch/myDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/1496-lucky-numbers-in-a-matrix) |
