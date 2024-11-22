@@ -4,7 +4,7 @@ public:
         int n = mat.size();
         int m = mat[0].size();
 
-        unordered_map<string,int> mpp;
+        unordered_map<string,int> mpp; //we need to store same patterns
 
         for(int i=0;i<n;i++){
             string temp = "";
