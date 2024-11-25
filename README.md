@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/youessaitch/myDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/youessaitch/myDSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/youessaitch/myDSA/tree/master/0684-redundant-connection) |
+| [0787-sliding-puzzle](https://github.com/youessaitch/myDSA/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/youessaitch/myDSA/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/youessaitch/myDSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/youessaitch/myDSA/tree/master/0820-find-eventual-safe-states) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/youessaitch/myDSA/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/youessaitch/myDSA/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/youessaitch/myDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0787-sliding-puzzle](https://github.com/youessaitch/myDSA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/youessaitch/myDSA/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/youessaitch/myDSA/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/youessaitch/myDSA/tree/master/0859-design-circular-deque) |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/youessaitch/myDSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/youessaitch/myDSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/youessaitch/myDSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-sliding-puzzle](https://github.com/youessaitch/myDSA/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/youessaitch/myDSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/youessaitch/myDSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/youessaitch/myDSA/tree/master/0999-regions-cut-by-slashes) |
